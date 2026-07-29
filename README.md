@@ -22,14 +22,6 @@
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&theme=cobalt" width="100%" alt="header wave" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adiletbaike&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adiletbaike&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=Adiletbaike&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 </p>
 
